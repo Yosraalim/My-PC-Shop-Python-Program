@@ -1,2 +1,2 @@
 # My-PC-Shop-Python-Program
-Created a python program for a PC shop where you can create your dream PC. 
+Created a python program for an online PC shop where you can create/build your dream PC. 
